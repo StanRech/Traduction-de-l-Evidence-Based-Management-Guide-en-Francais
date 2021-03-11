@@ -58,3 +58,19 @@ Chaque ZVC se concentre sur un aspect différent de la valeur soit sur la capaci
 
 Des exemples de Métriques de Valeur Clés (MVCs) pour chaque ZVC sont décrites dans l’appendice.
 
+
+Valeur courante (VC)
+
+La valeur que le produit livre aujourd’hui
+
+L’objectif de regarder la VC est de comprendre la valeur qu’une organisation livre à ses clients et ses parties prenantes au temps présent ; cela prend en compte seulement ce qui existe actuellement, et non la valeur qu’il pourrait y avoir dans le futur. Les questions qui permettent à l’organisation de ré-évaluer continuellement la valeur actuelle sont :
+
+1.	Quel est le degré de satisfaction des utilisateurs et des clients aujourd’hui ? Leur satisfaction s’améliore ou décline ?
+2.	Quel est le degré de satisfaction des employés aujourd’hui ? Leur satisfaction s’améliore ou décline ?
+3.	Quel est le degré de satisfaction des investisseurs et des parties prenantes aujourd’hui ? Leur satisfaction s’améliore ou décline ?
+
+Prendre en compte CV aide l’organisation à comprendre la valeur que ses clients et ses utilisateurs en retire aujourd’hui.
+Example : Bien que le profit, soit une façon de mesurer la satisfaction des investisseurs, va vous montrer l’impact économique de la valeur que vous délivrez, savoir si les clients sont satisfaits avec leur achat vous indiquera plus dans quels domaines vous devez vous améliorer pour garder ces clients. Si vos clients ont peu d’alternatives à votre produit, il est possible d’avoir des profits importants même si la satisfaction client est faible. Prendre en compte CV par différentes perspectives va vous donner une meilleure compréhension de vos défis et de vos opportunités.
+
+La satisfaction client et la satisfaction des investisseurs ne vous donnent pas toutes les informations sur votre capacité à livrer de la valeur. Prendre en compte l’état d’esprit des employés, c’est reconnaitre qu’ils sont en fin de compte les producteurs de valeur. Les employés engagés qui savent maintenir, entretenir et améliorer le produit sont une des meilleures ressources d’une organisation, et des employés heureux sont plus engagés et productifs. 
+
